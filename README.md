@@ -1,2 +1,2 @@
-# Hilchos-Dayanim-1
-Hilchos-Dayanim-1
+# Dayanim-Semuchim
+Dayanim-Semuchim
